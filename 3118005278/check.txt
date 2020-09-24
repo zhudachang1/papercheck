@@ -1,0 +1,2 @@
+.\orig.txt和.\orig_0.8_add.txt相似度: 81.00%
+
